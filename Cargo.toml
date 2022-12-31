@@ -1,0 +1,10 @@
+[package]
+name = "rigor"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Jim Menard <jim@jimmenard.com>" ]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+portmidi = "0.2.6"
